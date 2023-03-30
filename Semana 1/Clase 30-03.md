@@ -32,8 +32,49 @@ El proveedor es el propietario de la infraestructura.
 
 CONTINUAR..
 
-
-
-
 OJITO👀 : 
 Material extra -> https://profile.es/blog/servicios-cloud-que-es-iaas-saas-y-paas/
+
+
+# Máquina Virtual Linux en nube
+
+## Proveedor Digital Ocean
+
+![image](https://user-images.githubusercontent.com/91573449/228844633-28849da8-513b-4075-9a25-dc02523d9af7.png)
+
+**¿Qué es un sistema operativo?**
+
+Es el programa que, después de ser cargado inicialmente en la computadora por un programa de arranque, administra todos los demás programas de aplicación en una computadora.
+
+**¿Qué es SSH?**
+
+Significa Secure Shell, y es un ***protocolo de administración remota*** a través del cual los usuarios pueden tanto modificar como controlar sus servidores remotos en Internet. 
+
+### Conectarse a Linux
+
+$ pwd
+$ ./hola.exe 
+
+
+ls: para listar
+
+changed directory: para cambiar de directorio y entrar a un directorio
+
+mkdir: para crear un directorio 
+
+pico es un
+
+control o: para guardar tus apuntes/notas
+
+
+
+para python:
+
+$ pico holamundo.py
+cat hola.py
+print("Hola mundo desde Pyhton")
+$ python3 holamundo.py
+
+
+para javascript
+ $ node holamundo.js
