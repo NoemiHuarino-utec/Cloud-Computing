@@ -1,7 +1,7 @@
 
 ## Dirección IP
 Significa Internet Protocolo. Es aquella que busca identificar un dispositivo a traves de una red.
-- Cuenta con 8 bits que puede ir en un rago de: [0, 255]
+- Cuenta con 8 bits que puede ir en un rango de: [0, 255]
 
 Colocando `ipconfig` en la consola **CDM** puedes ver la ip actual. De la siguiente manera:
 
