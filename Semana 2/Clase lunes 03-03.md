@@ -18,5 +18,5 @@ La máquina virtual te cobra:
 * **Storage**: Es el almacenamiento, te cobran por el almacenamiento que quieras tener y usar.
 * **Data Out**: Todo lo que sale de AWS al mundo es la Data Out (Tranferencia de Datos Salientes). Mientras más datos salgan, incrementan el precio.
 
-  Recuera👀: 
+  Recuerda👀: 
   La transferencia de datos es el volumen de datos que genera nuestra página debido a los visitantes y sus interacciones con los elementos de la misma.
